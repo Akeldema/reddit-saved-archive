@@ -1,0 +1,9 @@
+[reddit]
+client_id = "YOUR_CLIENT_ID"
+client_secret = "YOUR_CLIENT_SECRET"
+username = "YOUR_REDDIT_USERNAME"
+password = "YOUR_REDDIT_PASSWORD"
+user_agent = "linux:reddit-saved-archive:v0.1 (by /u/YOUR_REDDIT_USERNAME)"
+
+[archive]
+root = "~/Documents/Reddit Archive"
