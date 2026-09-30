@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local Reddit credentials
+config.toml
+*.secrets.toml
+
+# Local archive/runtime state
+Reddit Archive/
+.reddit_saved_archive.sqlite3
+archive.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
